@@ -11,16 +11,16 @@
 
 ## 项目截图
 
-![微信图片_20230624144140](C:\Users\zhangtao\Desktop\微信图片_20230624144140.jpg)
+![1](..\screenshort\1.jpg)
 
-![微信图片_20230624144145](C:\Users\zhangtao\Desktop\微信图片_20230624144145.jpg)
+![2](..\screenshort\2.jpg)
 
-![微信图片_20230624144150](C:\Users\zhangtao\Desktop\微信图片_20230624144150.jpg)
+![3](..\screenshort\3.jpg)
 
-![微信图片_20230624144154](C:\Users\zhangtao\Desktop\微信图片_20230624144154.jpg)
+![4](..\screenshort\4.jpg)
 
-![微信图片_20230624144158](C:\Users\zhangtao\Desktop\微信图片_20230624144158.jpg)
+![5](..\screenshort\5.jpg)
 
-![微信图片_20230624144201](C:\Users\zhangtao\Desktop\微信图片_20230624144201.jpg)
+![6](..\screenshort\6.jpg)
 
-![微信图片_20230624144205](C:\Users\zhangtao\Desktop\微信图片_20230624144205.jpg)
+![7](..\screenshort\7.jpg)
