@@ -1,16 +1,26 @@
-# wanandroid
+# 玩安卓
 
-A wanandroid Flutter project.
+一个用于学习Flutter的玩安卓项目
 
-## Getting Started
+## 模块描述
 
-This project is a starting point for a Flutter application.
+1、首页
+2、体系
+3、导航
+4、项目
 
-A few resources to get you started if this is your first Flutter project:
+## 项目截图
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![微信图片_20230624144140](C:\Users\zhangtao\Desktop\微信图片_20230624144140.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![微信图片_20230624144145](C:\Users\zhangtao\Desktop\微信图片_20230624144145.jpg)
+
+![微信图片_20230624144150](C:\Users\zhangtao\Desktop\微信图片_20230624144150.jpg)
+
+![微信图片_20230624144154](C:\Users\zhangtao\Desktop\微信图片_20230624144154.jpg)
+
+![微信图片_20230624144158](C:\Users\zhangtao\Desktop\微信图片_20230624144158.jpg)
+
+![微信图片_20230624144201](C:\Users\zhangtao\Desktop\微信图片_20230624144201.jpg)
+
+![微信图片_20230624144205](C:\Users\zhangtao\Desktop\微信图片_20230624144205.jpg)
